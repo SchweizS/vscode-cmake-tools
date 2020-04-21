@@ -789,10 +789,7 @@
         },
         "cmake.preferredGenerators": {
           "type": "array",
-          "default": [
-            "Ninja",
-            "Unix Makefiles"
-          ],
+          "default": [],
           "description": "%cmake-tools.configuration.cmake.preferredGenerators.description%",
           "scope": "resource"
         },
